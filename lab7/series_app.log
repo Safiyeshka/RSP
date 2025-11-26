@@ -1,0 +1,80 @@
+2025-11-25 19:58:01,481 - TurkishSeriesAPI - INFO - ✅ Добавлены начальные данные в базу
+2025-11-25 19:58:01,491 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 19:58:01,491 - TurkishSeriesAPI - INFO - 🚀 ЗАПУСК СЕРВЕРА ТУРЕЦКИХ СЕРИАЛОВ
+2025-11-25 19:58:01,496 - TurkishSeriesAPI - INFO - 📊 Начальное количество сериалов: 3
+2025-11-25 19:58:01,496 - TurkishSeriesAPI - INFO - 📍 Сервер доступен по: http://localhost:5000
+2025-11-25 19:58:01,497 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 19:58:02,463 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.187.65.64:5000
+2025-11-25 19:58:02,463 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-25 19:58:02,463 - werkzeug - INFO -  * Restarting with stat
+2025-11-25 19:58:02,993 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 19:58:02,993 - TurkishSeriesAPI - INFO - 🚀 ЗАПУСК СЕРВЕРА ТУРЕЦКИХ СЕРИАЛОВ
+2025-11-25 19:58:02,993 - TurkishSeriesAPI - INFO - 📊 Начальное количество сериалов: 3
+2025-11-25 19:58:02,993 - TurkishSeriesAPI - INFO - 📍 Сервер доступен по: http://localhost:5000
+2025-11-25 19:58:02,993 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 19:58:03,016 - werkzeug - WARNING -  * Debugger is active!
+2025-11-25 19:58:03,025 - werkzeug - INFO -  * Debugger PIN: 120-158-020
+2025-11-25 19:58:05,899 - TurkishSeriesAPI - INFO - === ВХОДЯЩИЙ ЗАПРОС ===
+2025-11-25 19:58:05,899 - TurkishSeriesAPI - INFO - Метод: GET
+2025-11-25 19:58:05,899 - TurkishSeriesAPI - INFO - Путь: /series
+2025-11-25 19:58:05,899 - TurkishSeriesAPI - INFO - IP: 127.0.0.1
+2025-11-25 19:58:05,906 - TurkishSeriesAPI - INFO - Content-Type: application/json
+2025-11-25 19:58:05,906 - TurkishSeriesAPI - INFO - Время: 2025-11-25 19:58:05.906302
+2025-11-25 19:58:05,906 - TurkishSeriesAPI - INFO - 🔄 Обработка запроса всех сериалов
+2025-11-25 19:58:05,908 - TurkishSeriesAPI - DEBUG - В базе найдено 3 сериалов
+2025-11-25 19:58:05,908 - TurkishSeriesAPI - DEBUG -  - Великолепный век (ID: 1)
+2025-11-25 19:58:05,908 - TurkishSeriesAPI - DEBUG -  - Любовь напрокат (ID: 2)
+2025-11-25 19:58:05,909 - TurkishSeriesAPI - DEBUG -  - Постучи в мою дверь (ID: 3)
+2025-11-25 19:58:05,909 - TurkishSeriesAPI - INFO - === ИСХОДЯЩИЙ ОТВЕТ ===
+2025-11-25 19:58:05,909 - TurkishSeriesAPI - INFO - Статус: 200
+2025-11-25 19:58:05,910 - TurkishSeriesAPI - INFO - ======================
+2025-11-25 19:58:05,911 - werkzeug - INFO - 127.0.0.1 - - [25/Nov/2025 19:58:05] "GET /series HTTP/1.1" 200 -
+2025-11-25 20:53:46,837 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 20:53:46,837 - TurkishSeriesAPI - INFO - 🚀 ЗАПУСК СЕРВЕРА ТУРЕЦКИХ СЕРИАЛОВ
+2025-11-25 20:58:09,653 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 20:58:09,653 - TurkishSeriesAPI - INFO - 🚀 ЗАПУСК СЕРВЕРА ТУРЕЦКИХ СЕРИАЛОВ
+2025-11-25 20:58:11,722 - TurkishSeriesAPI - WARNING - ⚠️ Redis недоступен: Timeout connecting to server, работаем без кэширования
+2025-11-25 20:58:11,722 - TurkishSeriesAPI - INFO - 📊 Начальное количество сериалов: 3
+2025-11-25 20:58:11,722 - TurkishSeriesAPI - INFO - 🔴 Redis: ❌ недоступен
+2025-11-25 20:58:11,722 - TurkishSeriesAPI - INFO - 📍 Сервер доступен по: http://localhost:5000
+2025-11-25 20:58:11,722 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 20:58:12,942 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.187.65.64:5000
+2025-11-25 20:58:12,948 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-25 20:58:12,953 - werkzeug - INFO -  * Restarting with stat
+2025-11-25 20:58:13,307 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 20:58:13,307 - TurkishSeriesAPI - INFO - 🚀 ЗАПУСК СЕРВЕРА ТУРЕЦКИХ СЕРИАЛОВ
+2025-11-25 20:58:15,327 - TurkishSeriesAPI - WARNING - ⚠️ Redis недоступен: Timeout connecting to server, работаем без кэширования
+2025-11-25 20:58:15,327 - TurkishSeriesAPI - INFO - 📊 Начальное количество сериалов: 3
+2025-11-25 20:58:15,328 - TurkishSeriesAPI - INFO - 🔴 Redis: ❌ недоступен
+2025-11-25 20:58:15,328 - TurkishSeriesAPI - INFO - 📍 Сервер доступен по: http://localhost:5000
+2025-11-25 20:58:15,328 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 20:58:15,357 - werkzeug - WARNING -  * Debugger is active!
+2025-11-25 20:58:15,366 - werkzeug - INFO -  * Debugger PIN: 120-158-020
+2025-11-25 21:01:01,653 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 21:01:01,653 - TurkishSeriesAPI - INFO - 🚀 ЗАПУСК СЕРВЕРА ТУРЕЦКИХ СЕРИАЛОВ
+2025-11-25 21:01:03,679 - TurkishSeriesAPI - WARNING - ⚠️ Redis недоступен: Timeout connecting to server, работаем без кэширования
+2025-11-25 21:01:03,679 - TurkishSeriesAPI - INFO - 📊 Начальное количество сериалов: 3
+2025-11-25 21:01:03,679 - TurkishSeriesAPI - INFO - 🔴 Redis: ❌ недоступен
+2025-11-25 21:01:03,679 - TurkishSeriesAPI - INFO - 📍 Сервер доступен по: http://localhost:5000
+2025-11-25 21:01:03,679 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 21:01:04,628 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.187.65.64:5000
+2025-11-25 21:01:04,629 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-25 21:01:04,632 - werkzeug - INFO -  * Restarting with stat
+2025-11-25 21:01:05,027 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 21:01:05,027 - TurkishSeriesAPI - INFO - 🚀 ЗАПУСК СЕРВЕРА ТУРЕЦКИХ СЕРИАЛОВ
+2025-11-25 21:01:07,051 - TurkishSeriesAPI - WARNING - ⚠️ Redis недоступен: Timeout connecting to server, работаем без кэширования
+2025-11-25 21:01:07,051 - TurkishSeriesAPI - INFO - 📊 Начальное количество сериалов: 3
+2025-11-25 21:01:07,051 - TurkishSeriesAPI - INFO - 🔴 Redis: ❌ недоступен
+2025-11-25 21:01:07,051 - TurkishSeriesAPI - INFO - 📍 Сервер доступен по: http://localhost:5000
+2025-11-25 21:01:07,051 - TurkishSeriesAPI - INFO - ==================================================
+2025-11-25 21:01:07,069 - werkzeug - WARNING -  * Debugger is active!
+2025-11-25 21:01:07,075 - werkzeug - INFO -  * Debugger PIN: 120-158-020
