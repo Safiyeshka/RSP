@@ -1,0 +1,15 @@
+2025-12-02 18:48:44,699 - __main__ - INFO - 🚀 Initializing services...
+2025-12-02 18:48:47,412 - __main__ - WARNING - ⚠️ Database initialization attempt 1/10 failed: could not translate host name "postgres" to address: Unknown host
+
+2025-12-02 18:48:52,107 - __main__ - WARNING - ⚠️ Database initialization attempt 2/10 failed: could not translate host name "postgres" to address: Unknown host
+
+2025-12-02 18:48:56,810 - __main__ - WARNING - ⚠️ Database initialization attempt 3/10 failed: could not translate host name "postgres" to address: Unknown host
+
+2025-12-02 18:49:01,498 - __main__ - WARNING - ⚠️ Database initialization attempt 4/10 failed: could not translate host name "postgres" to address: Unknown host
+
+2025-12-02 18:49:06,210 - __main__ - WARNING - ⚠️ Database initialization attempt 5/10 failed: could not translate host name "postgres" to address: Unknown host
+
+2025-12-02 18:49:10,895 - __main__ - WARNING - ⚠️ Database initialization attempt 6/10 failed: could not translate host name "postgres" to address: Unknown host
+
+2025-12-02 18:49:15,600 - __main__ - WARNING - ⚠️ Database initialization attempt 7/10 failed: could not translate host name "postgres" to address: Unknown host
+
